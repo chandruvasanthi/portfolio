@@ -1,5 +1,5 @@
 import React, { useRef, useState } from 'react';
-import "./header.css";
+import "./Header.css";
 import { Link } from "react-router-dom";
 import { motion } from 'framer-motion';
 import { RxHamburgerMenu } from "react-icons/rx";
