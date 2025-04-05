@@ -40,12 +40,14 @@ const Contact = () => {
         <h1>Let's talk</h1>
         <p className='clp'>I'm currently looking for new opportunities in frontend development. Whether you have a project, a job opportunity, or just want to chat about web development, feel free to reach out. I’d love to connect.</p>
         <div className="contactdetails">
-          <div className="details">
-            <MdEmail  className='icons'/><p>chandrutas019@gmail.com</p>
-          </div>
-          <div className="details">
-            <FaPhoneAlt className='icons'/><p>6381506536</p>
-           </div>
+        <div className="details">
+          <MdEmail className='icons'/>
+          <a href="mailto:chandrutas019@gmail.com"><p>chandrutas019@gmail.com</p></a>
+        </div>
+        <div className="details">
+         <FaPhoneAlt className='icons'/>
+         <a href="tel:6381506536"><p>6381506536</p></a>
+        </div>
           <div className="details">
             <FaLocationDot className='icons'/><p>Salem, Tamilnadu.</p>
            </div>
