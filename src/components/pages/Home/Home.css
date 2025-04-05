@@ -15,6 +15,7 @@
     width: 80%;
     font-size: 60px;
     font-weight: 600;
+
 }
 .span{
     background: linear-gradient(270deg, #DF8908 10%, #B415FF 100%);
@@ -31,8 +32,7 @@
 .herobtns{
     display: flex;
     align-items: center;
-    gap: 25px;
-   
+    gap: 25px;  
 }
 .cwmbtn{
     font-size: 16px; 
@@ -118,14 +118,14 @@
         font-size: 18px;
         font-weight: 500;
         margin-bottom: 20px;
-        margin-left: 30px;
+        margin-left: 5px;
        }
        .cwmbtn{
-        width: 160px;
+        width: 155px;
         border-radius: 40px;
        }
        .mrbtn{
-        width: 160px;     
+        width: 155px;     
         border-radius: 40px;
        }
        .cwmbtn:hover{
