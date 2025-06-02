@@ -1,3 +1,16 @@
+# portfolio
+Poject Description: A personal portfolio website built using React, highlighting projects, technical skills, and professional experience.The application features a responsive and interactive user interface,styled with modern CSS techniques to ensure a clean and engaging user experience. It includes a "Get in Touch" section for seamless communication,and emphasizes performance optimization and accessibility,showcasing strong frontend development proficiency.
+Tech stack: HTML, CSS, JavaScript, React.
+Features:
+    - About, Skills, Projects,and Contact sections.
+    - Get in Touch form with validations.
+    - Fully responsive for all screen sizes.
+Live Demo url: https://portfolio-hjlp.vercel.app/
+How to Run Locally : Clone the repo: git clone https://github.com/chandruvasanthi/movieapp.git
+Navigate into the project folder: cd movie-app
+Install dependencies: npm install
+Start the development server: npm run dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
