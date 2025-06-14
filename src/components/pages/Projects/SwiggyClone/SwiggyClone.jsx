@@ -30,6 +30,19 @@ const SwiggyClone = () => {
         <Link to="/" className="btn"> <span> Back to Home </span></Link>
         <h3 className="otherprojecth3">Other Projects:</h3>
                     <div className="project-list">
+
+                    <div className="project-card">
+                       <Link to="/projects/movieapp" className="project-title">
+                       <img className="project-image" src="https://i.ibb.co/wNNgjxyh/movieapp.png" alt="Movie App" />
+                       <p>Movie App</p>
+                       </Link>
+                    </div> 
+                    <div className="project-card">
+                          <Link to="/projects/formandfetch" className="project-title">
+                          <img className="project-image" src="https://i.ibb.co/6c4LWGfF/formandfetch.png" alt="Form And Fetch" />
+                          <p>FormAndFetch</p>
+                          </Link>
+                      </div>
                     <div className="project-card">
                     <Link to="/projects/portfolio" className="project-title">
                      <img className="project-image" src="https://i.ibb.co/cc8N39Ck/Portfolio.png" alt="Portfolio" />

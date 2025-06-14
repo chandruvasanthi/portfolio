@@ -26,6 +26,21 @@ const FormAndFetch = () => {
          
         <h3 className="otherprojecth3">Other Projects:</h3>
         <div className="project-list">
+
+         <div className="project-card">
+            <Link to="/projects/dmnature" className="project-title">
+            <img className="project-image" src="https://i.ibb.co/M5W1r723/DM-naturecure.png" alt="dmnature" /> 
+            <p>DM-Nature Cure</p> 
+             </Link>
+         </div>   
+
+        <div className="project-card">
+           <Link to="/projects/movieapp" className="project-title">
+           <img className="project-image" src="https://i.ibb.co/wNNgjxyh/movieapp.png" alt="Movie App" />
+           <p>Movie App</p>
+          </Link>
+       </div>    
+       
         <div className="project-card">
           <Link to="/projects/swiggyclone" className="project-title">
             <img className="project-image" src="https://i.ibb.co/20H5MMGR/Swiggy-Clone.png" alt="Swiggy Clone" />
