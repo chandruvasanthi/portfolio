@@ -9,6 +9,8 @@ import SwiggyClone from "./components/pages/Projects/SwiggyClone/SwiggyClone";
 import FlipkartClone from "./components/pages/Projects/FlipkartClone/FlipkartClone";
 import Contact from "./components/pages/Contact/Contact";
 import Footer from "./components/Footer/Footer";
+import Movieapp from "./components/pages/Projects/Movieapp/Movieapp";
+import FormAndFetch from "./components/pages/Projects/FormAndFetch/FormAndFetch";
 
 
 const MainPage = () => {
@@ -29,6 +31,8 @@ const App = () => {
     <Routes>
       <Route path="/" element={<MainPage />} />
       <Route path="/projects/dmnature" element={<Dmnature />} />
+       <Route path="/projects/movieapp" element={<Movieapp />} />
+       <Route path="/projects/formandfetch" element={<FormAndFetch />} />
       <Route  path="/projects/portfolio" element={<Portfolio />} />
       <Route path="/projects/swiggyclone" element={<SwiggyClone />} />
       <Route path="/projects/flipkartclone" element={<FlipkartClone />}/>

@@ -14,7 +14,7 @@ const Dmnature = () => {
       <img src="https://i.ibb.co/M5W1r723/DM-naturecure.png" alt="Dmnature Project" className="dmn-image"/>
       
       <div className="dmn-content">
-      <a href="https://www.dmnaturecure.com/" target="_blank" rel="noopener noreferrer"className="dmn-link" > View Project  </a>
+      <a href="https://www.dmnaturecure.com/" target="_blank" rel="noopener noreferrer"className="dmn-link" > View Project </a>
         <h2 className="dmn-title">DM Nature Cure- Naturopathy Website</h2>  
         <p className="dmn-description">
            Developed a responsive website for DM Nature Cure and Wellness Centre, showcasing natural wellness services and products. The website features a clean and user-friendly design, providing detailed information about holistic therapies, yoga practices, and naturopathic remedies. With seamless navigation and a well-structured layout, visitors can easily explore services, learn about health benefits, and access product highlights. The site is optimized for all devices, ensuring a smooth browsing experience and enhancing user engagement.

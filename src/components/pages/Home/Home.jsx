@@ -23,7 +23,7 @@ const Home = () => {
        <p className='herop'>I am a frontend developer from Tamil Nadu, India, with 1.5 years of experience at Foisys.</p>
        <div className='herobtns'>
        <button className='cwmbtn' onClick={scrollToBottom}>Connect with me</button>
-         <button className='mrbtn'   onClick={() => window.open('/Chandru-Resume..pdf', '_blank')}>My resume</button>
+         <button className='mrbtn'   onClick={() => window.open('/Chandru-Resume---.pdf', '_blank')}>My resume</button>
        </div>
    
     </div>
