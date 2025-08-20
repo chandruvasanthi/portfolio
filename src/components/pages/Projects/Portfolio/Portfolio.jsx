@@ -28,7 +28,7 @@ const Portfolio = () => {
                     <div className="project-list">
                     <div className="project-card">
                       <Link to="/projects/movieapp" className="project-title">
-                        <img className="project-image" src="https://i.ibb.co/wNNgjxyh/movieapp.png" alt="Movie App" />
+                        <img className="project-image" src="https://i.ibb.co/ccZw2n3Z/movieapp.png" alt="Movie App" />
                         <p>Movie App</p>
                        </Link>
                     </div> 

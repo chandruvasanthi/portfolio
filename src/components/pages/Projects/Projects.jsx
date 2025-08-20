@@ -15,7 +15,7 @@ const Projects = () => {
     {
       p_no: 2,
       p_name: "movieapp",
-      p_img: "https://i.ibb.co/wNNgjxyh/movieapp.png",
+      p_img: "https://i.ibb.co/ccZw2n3Z/movieapp.png",
       p_url: "/projects/movieapp", 
     },
     {

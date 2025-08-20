@@ -11,7 +11,7 @@ const Movieapp = () => {
 
   return (
     <div className="mapp-container">
-      <img src="https://i.ibb.co/wNNgjxyh/movieapp.png" alt="Movieapp Project" className="mapp-image"/>
+      <img src="https://i.ibb.co/ccZw2n3Z/movieapp.png" alt="Movieapp Project" className="mapp-image"/>
       
       <div className="mapp-content">
       <a href="https://movieapp-list.vercel.app/" target="_blank" rel="noopener noreferrer"className="mapp-link" > View Project  </a>
